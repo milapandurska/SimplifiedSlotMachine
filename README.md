@@ -1,4 +1,4 @@
-# SimplifiedSlotMachine
+# Simplified Slot Machine
 Bede Gaming: .NET Developer Test Simplified Slot Machine
 
 Console application written in .NET 6
